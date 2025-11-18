@@ -3,21 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=250&section=header&text=Shafiq%20Mullai&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<br />
+<!-- SUBTITLE -->
+<h2 align="center">🚀 Software Developer | 📱 Flutter Developer | 🎨 UI/UX Designer</h2>
 
-<!-- INTRO -->
-<h2 align="center">Software Developer | Flutter Developer | UI/UX Designer</h2>
-<h4 align="center">Building clean, scalable and user-friendly apps with modern UI/UX.</h4>
-
-<br />
+<!-- ANIMATED TYPING -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=650&lines=Flutter+Developer;UI%2FUX+Designer;Mobile+App+Developer;Creative+Tech+Enthusiast;Building+Modern+Apps+with+Clean+UI%2FUX" />
+</div>
 
 ---
 
-##  About Me
-- Passionate **Flutter Developer** specializing in mobile + web apps  
-- 🎨 Experienced **UI/UX Designer** with 8+ months of design experience  
-- 🧠 Strong in **Firebase Auth, Firestore, Provider State Management**  
+## 👨‍💻 About Me
 
+- 🔥 Passionate **Flutter Developer**  
+- ⚡ Experienced in **Dart, Firebase, Provider State Management**  
+- 🧠 Strong knowledge in **Authentication, Firestore, App Architecture**  
+- 🎨 UI/UX Design for mobile and web apps  
+- 🚀 Building scalable and clean app experiences  
 
 ---
 
@@ -43,30 +45,31 @@
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Projects
 
-### 🔹 **StayBee – PG/Hostel Finder App**
-- Flutter + Firebase Authentication
-- PG Listing, Image Upload, Search Filters
-- Owner Dashboard + Editing PG Data  
+### 🔹 **Book Your Turf – Sports Ground Booking App**
+- Flutter + Firebase  
+- User & Owner Authentication  
+- Turf Booking, Payments, Live Availability  
+- Smooth UI/UX with clean animations  
 
-🔗 *(Link Coming Soon)*
-
-### 🔹 **Online Examination App**
-- Flutter + Supabase Backend  
-- Timer, Results, Admin Panel
-
-### 🔹 **UI/UX Projects**
-- Designed 20+ professional UI/UX screens, brochures, posters  
-- Used Figma for prototypes + responsive layout design
+### 🔹 **Poomani Decors – Event & Wedding Decorations App/Website**
+- UI/UX Design + Branding  
+- Product Listing, Package Showcase  
+- Enquiry Module + Gallery Designs  
+- Clean and modern layout system  
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ GitHub Stats & Animations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafiqMullai&show_icons=true&theme=blueberry" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafiqMullai&theme=blueberry" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafiqMullai&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafiqMullai&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafiqMullai&theme=react-dark&hide_border=true" />
 </p>
 
 ---
