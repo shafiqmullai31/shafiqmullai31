@@ -6,20 +6,18 @@
 <br />
 
 <!-- INTRO -->
-<h2 align="center">🚀 Software Developer | 📱 Flutter Developer | 🎨 UI/UX Designer</h2>
+<h2 align="center">Software Developer | Flutter Developer | UI/UX Designer</h2>
 <h4 align="center">Building clean, scalable and user-friendly apps with modern UI/UX.</h4>
 
 <br />
 
 ---
 
-## 👨‍💻 About Me
-- 🔥 Passionate **Flutter Developer** specializing in mobile + web apps  
+##  About Me
+- Passionate **Flutter Developer** specializing in mobile + web apps  
 - 🎨 Experienced **UI/UX Designer** with 8+ months of design experience  
 - 🧠 Strong in **Firebase Auth, Firestore, Provider State Management**  
-- 🚧 Currently building: **StayBee – PG/Hostel Finder App**  
-- 🏃‍♂️ Athlete & Sprinter (100m) training for sub-10 seconds  
-- 🎯 Goal: Become a full-stack product developer
+
 
 ---
 
