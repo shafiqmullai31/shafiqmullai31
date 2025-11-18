@@ -1,7 +1,7 @@
 <!-- Header with dynamic animation -->
 <div align="center">
   <!-- Professional animated header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=ShafiqMullai%20&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20%7C%&descSize=18&descAlign=50&descAlignY=60" alt="Professional Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=ShafiqMullai%20&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%descSize=18&descAlign=50&descAlignY=60" alt="Professional Header"/>
   
   <!-- Dynamic typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Python+Programmer;Cross-Platform+Expert;Firebase+Integration;Production-Ready+Solutions" alt="Skills Typing"/>
