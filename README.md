@@ -4,7 +4,7 @@
 </div>
 
 <!-- SUBTITLE -->
-<h2 align="center">🚀 Software Developer | 📱 Flutter Developer | 🎨 UI/UX Designer</h2>
+<h2 align="center">Software Developer | Flutter Developer | UI/UX Designer</h2>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
@@ -13,17 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔥 Passionate **Flutter Developer**  
-- ⚡ Experienced in **Dart, Firebase, Provider State Management**  
-- 🧠 Strong knowledge in **Authentication, Firestore, App Architecture**  
-- 🎨 UI/UX Design for mobile and web apps  
-- 🚀 Building scalable and clean app experiences  
+- Passionate **Flutter Developer**  
+- Experienced in **Dart, Firebase, Provider State Management**  
+- Strong knowledge in **Authentication, Firestore, App Architecture**  
+- UI/UX Design for mobile and web apps  
+- Building scalable and clean app experiences  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages & Frameworks**
 <p align="left">
@@ -45,7 +45,7 @@
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 ### 🔹 **Book Your Turf – Sports Ground Booking App**
 - Flutter + Firebase  
