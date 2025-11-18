@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Srigunas">
+  <a href="https://github.com/shafiqmullai31">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="tel:+916380133541">
+  <a href="tel:+918270260992">
     <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
   
