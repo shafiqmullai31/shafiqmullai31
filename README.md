@@ -4,16 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=ShafiqMullai%20&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%&7C%descSize=18&descAlign=50&descAlignY=60" alt="Professional Header"/>
   
   <!-- Dynamic typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;UI/UX+Designer;Cross-Platform+Expert;Firebase+Integration;Production-Ready+Solutions" alt="Skills Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;UI/UX+Designer;Cross-Platform+Expert;Firebase;Production-Ready+Solutions" alt="Skills Typing"/>
   
   <br><br>
   
   <!-- Contact badges -->
-  <a href="https://www.linkedin.com/in/srigunaseelan">
+  <a href="https://www.linkedin.com/in/shafiqahamed-b-01a4a12b0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:srigunaseelan2004@gmail.com">
+  <a href="mailto:shafiqmullai31@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
