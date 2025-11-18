@@ -1,57 +1,90 @@
-<!-- Header Banner -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:005F99&height=250&section=header&text=Shafiq%20Mullai&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Flutter%20%7C%20Firebase&descSize=18&descAlignY=60"/>
-
-  <!-- Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+Developer;Firebase+Integration;Cross+Platform+Apps;Production+Ready+Solutions"/>
-  
-  <br>
-
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/shafiqmullai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:shafiqmullai2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shafiqmullai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="tel:+91XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Shafiqmullai&label=Profile+Views&color=00A8E8&style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=250&section=header&text=Shafiq%20Mullai&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<br />
+
+<!-- INTRO -->
+<h2 align="center">🚀 Software Developer | 📱 Flutter Developer | 🎨 UI/UX Designer</h2>
+<h4 align="center">Building clean, scalable and user-friendly apps with modern UI/UX.</h4>
+
+<br />
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+- 🔥 Passionate **Flutter Developer** specializing in mobile + web apps  
+- 🎨 Experienced **UI/UX Designer** with 8+ months of design experience  
+- 🧠 Strong in **Firebase Auth, Firestore, Provider State Management**  
+- 🚧 Currently building: **StayBee – PG/Hostel Finder App**  
+- 🏃‍♂️ Athlete & Sprinter (100m) training for sub-10 seconds  
+- 🎯 Goal: Become a full-stack product developer
 
-I’m **Shafiq Mullai**, a passionate **Software Developer** specialized in building  
-**cross-platform Flutter applications** with strong backend integration skills.
+---
 
-I work with **Flutter, Dart, Firebase, Python**, and I enjoy turning real-world problems into production-ready digital solutions.
+## 🛠️ Tech Stack
 
-```dart
-class Developer {
-  final String name = "Shafiq Mullai";
-  final String role = "Software Developer";
-  final String location = "Namakkal, Tamil Nadu";
-  final String company = "Gateway Software Solutions";
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
-  List<String> skills = [
-    "Flutter App Development",
-    "Firebase & Real-time Databases",
-    "State Management (Provider)",
-    "UI/UX Design",
-    "REST API Integration",
-  ];
-}
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **StayBee – PG/Hostel Finder App**
+- Flutter + Firebase Authentication
+- PG Listing, Image Upload, Search Filters
+- Owner Dashboard + Editing PG Data  
+
+🔗 *(Link Coming Soon)*
+
+### 🔹 **Online Examination App**
+- Flutter + Supabase Backend  
+- Timer, Results, Admin Panel
+
+### 🔹 **UI/UX Projects**
+- Designed 20+ professional UI/UX screens, brochures, posters  
+- Used Figma for prototypes + responsive layout design
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafiqMullai&show_icons=true&theme=blueberry" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafiqMullai&theme=blueberry" height="150" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shafiqmullai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=footer" />
+</div>
